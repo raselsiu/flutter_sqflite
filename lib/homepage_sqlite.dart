@@ -1,14 +1,14 @@
 import 'package:demo/db_helper.dart';
 import 'package:flutter/material.dart';
 
-class HomePage extends StatefulWidget {
-  const HomePage({super.key});
+class HomePageSQLit extends StatefulWidget {
+  const HomePageSQLit({super.key});
 
   @override
-  State<HomePage> createState() => _HomePageState();
+  State<HomePageSQLit> createState() => _HomePageSQLiteState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _HomePageSQLiteState extends State<HomePageSQLit> {
   List<Map<String, dynamic>> _allData = [];
 
   bool _isLoading = true;

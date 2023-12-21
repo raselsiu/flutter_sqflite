@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270052124541",
+    "project_id": "bangla-sahitto",
+    "storage_bucket": "bangla-sahitto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270052124541:android:311ea306f6a51edfd0ce14",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxiRFId-w22GqUZqh2fQiO7Eequ7pDERY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
